@@ -101,4 +101,4 @@ print(plan)
 
 
 # RESULT:
-Thus the program to implement Classical Planning Algorithm has been executed successfully.
+Thus the program to implement Classical Planning Algorithm has been executed successfully!.
